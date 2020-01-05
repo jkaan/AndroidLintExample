@@ -1,0 +1,2 @@
+include ':app', ':lint'
+rootProject.name='Android Lint Example'
